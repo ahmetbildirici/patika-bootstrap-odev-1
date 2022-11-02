@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=League+Gothic&family=League+Spartan:wght@200;400&display=swap');
+
+.theme{
+    color: #13ffe7;
+}
+
+.bg-theme{
+    background-color: #13ffe7;
+}
+
+.border-theme{
+    border: 1px solid #13ffe7;
+}
+
+.theme-border-bottom{
+    border-bottom: 2px solid #13ffe7;
+}
+
+.theme-button:hover {
+    background-color: #18e6d1ba;
+    color: white;
+  }
+
+.bg-black{
+    background-color: rgb(31, 25, 25);
+}
+
+.spartan{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.non-selectable{
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -webkit-touch-callout : none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.gothic{
+    font-family: 'League Gothic', sans-serif;
+}
+
+.kaushan{
+    font-family: "Kaushan Script";
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.cost{
+    background-color: rgb(28, 28, 28);
+    color: #fff;
+    display: inline;
+    padding: 5px;
+    border: 0.1 px solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
